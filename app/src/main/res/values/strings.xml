@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">submit</string>
+    <string name="msg1">Your email is</string>
+    <string name="error_login_message">Please filled the empty field</string>
+</resources>
